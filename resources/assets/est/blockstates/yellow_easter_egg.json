@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "est:yellow_easter_egg" }
+    }
+}

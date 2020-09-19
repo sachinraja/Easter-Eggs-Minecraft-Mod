@@ -1,0 +1,16 @@
+[
+{
+  "modid": "est",
+  "name": "Easter Eggs",
+  "description": "Adds easter eggs that give random items when broken.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["xCloudfox"],
+  "credits": "TechnoVision and HarryTalks for the tutorials. thvardhan for the lucky blocks code.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
